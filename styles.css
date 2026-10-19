@@ -20,7 +20,7 @@ body {
   display: grid;
   grid-template-columns: 340px 1fr;
   gap: 32px;
-  background-color: #ffffff;
+  background-color: #F1F4F8;
   border-radius: 20px;
   box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.05);
   overflow: hidden;
@@ -28,8 +28,8 @@ body {
 
 /* LEFT COLUMN: SIDEBAR */
 .sidebar {
-  background-color: #0f172a;
-  color: #f8fafc;
+  background-color: #4969B2;
+  color: #F1F4F8;
   padding: 40px 28px;
   display: flex;
   flex-direction: column;
